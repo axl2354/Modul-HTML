@@ -1,0 +1,6 @@
+.maroon {color: #820004; align= center}
+.bglime {background-color: lime;}
+.gradient1 {background: linear-gradient(to right, aqua , pink, pink);}
+body{background-color: azure;}
+header{background-color:cyan; width: 100%; height: 100px;}
+nav{float:left; height: 800px; background-color: aliceblue; width: 10%; align= center;}
